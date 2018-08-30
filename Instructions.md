@@ -1,1 +1,0 @@
-For a final project, research and collect data on a topic of your choosing. For Part 1 of the final, create a write-up on the data, as well as the ANN model of choice and any parameters that will be used. For Part 2 of the final, develop the model in Python. Create a final write-up of the code and any other information that is necessary, including but not limited to findings.
